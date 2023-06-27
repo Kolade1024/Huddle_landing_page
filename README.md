@@ -13,9 +13,9 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 ## Overview
 
-- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/clipboard-landing-page-bE-u9ZdLW7)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-DWsiKDfOgh)
 
-- Live Site URL: [live site URL](https://kolade1024.github.io/Clipboard_landing_page/)
+- Live Site URL: [live site URL](https://kolade1024.github.io/Huddle_landing_page/)
 
 
 ### Built with
